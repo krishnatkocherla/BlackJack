@@ -11,6 +11,6 @@ This project implements the classic casino game **BlackJack**, also known as 21.
 ## Features
 
 - Standard BlackJack rules: hit, stand, handle aces as 1 or 11, and dealer gameplay.
-- Simple, interactive command-line interface.
+- Simple, interactive GUI
 - Scoring and game-flow mechanics to simulate a realistic game experience.
-- Easily extendable for features like betting, multiple hands, or GUI integration.
+- Easily extendable for features like betting or multiple hands
